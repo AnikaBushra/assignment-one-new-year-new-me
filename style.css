@@ -1,0 +1,76 @@
+* {
+    margin: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.banner-title {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.banner {
+    background-image: url("images/banner/banner1.png");
+    height: 900px;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin: auto;
+    text-align: end;
+
+}
+
+.banner-text {
+    padding: 30% 20px 0 55%;
+}
+
+.banner-button {
+    background-color: orangered;
+    border: 1px solid orangered;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.banner-button a {
+    color: white;
+    text-decoration: none;
+
+}
+
+/* main part  */
+.main-part {
+    background-image: url("images/person.png");
+    height: 450px;
+    width: 90%;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: 30% 20px 0 55%;
+    background-color: rgb(216, 216, 222);
+}
+
+.main-title {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.class-container {
+    margin: 100px;
+    text-align: center;
+}
+
+.plan-title {
+    font-size: 30px;
+    line-height: 30px;
+    margin: 20px;
+}
+
+.plans {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mindset {
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to right, orangered, rgb(246, 246, 169));
+    margin: 100px;
+}
