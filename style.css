@@ -74,3 +74,19 @@
     background-image: linear-gradient(to right, orangered, rgb(246, 246, 169));
     margin: 100px;
 }
+
+.future {
+    width: 80%;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    color: white;
+    background-color: darkslategray;
+}
+
+.socials {
+    height: 30px;
+}
